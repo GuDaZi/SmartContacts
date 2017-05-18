@@ -1,2 +1,2 @@
 # SlidingDoubleView
-两个view的滑动忒奥
+模仿QQ的侧拉的动画效果
