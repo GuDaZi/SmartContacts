@@ -1,2 +1,3 @@
 # SlidingDoubleView
-模仿QQ的侧拉的动画效果
+5/22 更新多种联系人界面效果
+     
