@@ -1,10 +1,10 @@
 ### SmartContacts
 
-##简介
+## 简介
 
    多种联系人界面效果的demo
      
-##预览图
+## 预览图
 
    #SlideMenu:
      
@@ -14,7 +14,7 @@
      
    ![image](https://github.com/HD1992/DemoContacts/blob/master/screenshot/SwipeMenu.gif)
      
-##更新日志
+## 更新日志
 
    5/22 项目创建
 
