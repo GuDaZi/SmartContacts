@@ -1,3 +1,5 @@
-# SlidingDoubleView
-5/22 更新多种联系人界面效果
+# SmartContacts
+5/22 项目创建
+
+6/12 更新多种界面效果
      
