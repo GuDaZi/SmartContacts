@@ -8,11 +8,11 @@
 
    SlideMenu:
      
-     ![image](https://github.com/HD1992/DemoContacts/blob/master/screenshot/SlideMenu.gif)
+   ![image](https://github.com/HD1992/DemoContacts/blob/master/screenshot/SlideMenu.gif)
      
    SwipeMenu:
      
-     ![image](https://github.com/HD1992/DemoContacts/blob/master/screenshot/SwipeMenu.gif)
+   ![image](https://github.com/HD1992/DemoContacts/blob/master/screenshot/SwipeMenu.gif)
      
 更新日志
 
