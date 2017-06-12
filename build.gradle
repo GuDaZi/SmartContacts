@@ -30,4 +30,6 @@ dependencies {
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.6.0'
     //引用布局? android自带的
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.android.support:recyclerview-v7:25.0.0'
+    compile files('libs/pinyin4j-2.5.0.jar')
 }
