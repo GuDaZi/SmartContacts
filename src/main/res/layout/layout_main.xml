@@ -19,7 +19,6 @@
             android:layout_height="50dp" />
 
     </FrameLayout>
-
     <ListView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
