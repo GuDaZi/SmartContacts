@@ -1,4 +1,4 @@
-### SmartContacts
+# SmartContacts
 
 ## 简介
 
